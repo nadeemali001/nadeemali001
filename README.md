@@ -24,7 +24,7 @@
     <a href="https://nadeemali001.github.io"><img src="https://img.shields.io/badge/Portfolio-00D4FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
   </p>
 
-  <img src="https://komarev.com/ghpvc/?username=nadeemali001&color=00FFCC&style=flat-square" alt="Visitor Counter" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=nadeemali001.nadeemali001&left_text=Profile%20Views&left_color=gray&right_color=%2300CCAA" alt="Visitor Counter" />
 </div>
 
 <br/>
