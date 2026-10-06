@@ -293,7 +293,7 @@
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=nadeemali001&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" width="97%" />
   </p>
   <p>
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=nadeemali001&theme=tokyo-night&bg_color=0D1117&hide_border=true" width="97%" alt="Activity Graph" />
+    <img src="https://ghchart.rshah.org/00CCAA/nadeemali001" width="97%" alt="Contribution Chart" />
   </p>
   <p>
     <img src="https://raw.githubusercontent.com/nadeemali001/nadeemali001/output/github-contribution-grid-snake.svg" alt="Snake Contribution Graph" width="97%" />
